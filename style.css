@@ -1,0 +1,73 @@
+.one{
+    height:530px;
+    width:330px;
+    border:2px solid white;
+    border-radius: 10px;
+    background-color:white;
+    padding-left: 7px;
+   
+   
+}
+body{
+    background-color: rgb(59, 78, 78);
+    margin-left: 500px;
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+}
+.two input{
+    width:300px;
+}
+.thre input{
+    background-color: rgb(120, 136, 165);
+    
+}
+.for input{
+    /* width:30px; */
+    padding-left: 0;
+}
+.six button{
+     width:330px;
+    height:40px; 
+    background-color: rgb(17, 17, 135);
+    color:white;
+    font-size: medium;
+}
+.s{
+   margin-right: 200px;
+   color:white;
+   font-size: large;
+  margin-right: 500px;
+  
+   
+}
+.a{
+    height:300px;
+    width:200px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+/* body1{
+    background-image: url(coder.jpg);
+    background-size: cover; */
+/* } */
+.thre input{
+    padding-left: 0;
+}
+body.b{
+    background-image: url(image\ code.webp);
+    background-size: cover;
+    font-family: "Protest Strike", sans-serif;
+   
+
+}
+#f{
+    color:white
+    padding-right: 0px;
+}
+p{
+    text-decoration: underline;
+    color:rgb(150, 68, 112);
+}
